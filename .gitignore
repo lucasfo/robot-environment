@@ -1,0 +1,7 @@
+*.swp
+*.swo
+*.in
+*.out
+*.tmp
+*.o
+main
